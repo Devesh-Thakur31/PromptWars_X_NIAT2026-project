@@ -4,7 +4,7 @@
 
 **PRIVY** is a 100% browser-based, client-side Personally Identifiable Information (PII) detection, validation, and redaction workspace built for **Google for Developers × Hack2Skill — Build with AI, Prompt Wars**.
 
-> **Zero Network Transmission:** All document parsing, PII detection, redaction, and file export run strictly in browser memory. Original document contents are never sent to external servers or AI APIs, and are never persisted to `localStorage`.
+> **Zero Network Transmission:** All document parsing, PII detection, redaction, and file export run strictly in browser memory. Original document contents are never sent to external servers or AI APIs, and are never persisted to `(https://prompt-wars-x-niat-2026-project.vercel.app/)`.
 
 ### Key Capabilities
 
