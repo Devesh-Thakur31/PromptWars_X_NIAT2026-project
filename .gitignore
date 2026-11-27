@@ -1,0 +1,16 @@
+node_modules/
+dist/
+dist-ssr/
+coverage/
+tsconfig.tsbuildinfo
+*.local
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+*.log
+.DS_Store
+Thumbs.db
